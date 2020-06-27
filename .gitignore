@@ -4,6 +4,7 @@
 *.so
 
 # Folders
+_.ipynb_checkpoints
 _obj
 _test
 
