@@ -4,7 +4,6 @@
 *.so
 
 # Folders
-_.ipynb_checkpoints
 _obj
 _test
 
@@ -28,6 +27,7 @@ _testmain.go
 *.iml
 
 # Directory-based project format:
+.ipynb_checkpoints
 .idea/
 .idea/workspace.xml
 **/.idea/workspace.xml
