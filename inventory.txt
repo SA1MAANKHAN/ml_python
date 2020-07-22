@@ -1,0 +1,6 @@
+training a model
+
+-> get data
+-> change catagorical data into numbers
+	->feature columns
+	 
